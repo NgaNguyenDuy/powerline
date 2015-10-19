@@ -41,7 +41,7 @@
   "Powerline face 2."
   :group 'powerline)
 
-(defcustom powerline-default-separator 'arrow
+(defcustom powerline-default-separator 'wave
   "The separator to use for the default theme.
 
 Valid Values: alternate, arrow, arrow-fade, bar, box, brace,
